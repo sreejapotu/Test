@@ -18,6 +18,7 @@ namespace ConsoleApp5
             int c = a + b;
             Console.WriteLine("The sum is = " + c);
             Console.ReadKey();
+            //The user gets the sum of two numbers
             
         }
     }
